@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndBom_04",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.779546,
+  "name":"sndBom_04",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds/SFX/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndbom_04.wav",
+  "type":1,
+  "volume":0.04,
+}

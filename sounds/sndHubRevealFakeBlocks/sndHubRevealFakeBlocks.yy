@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndHubRevealFakeBlocks",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.69898,
+  "name":"sndHubRevealFakeBlocks",
+  "parent":{
+    "name":"AudioLast",
+    "path":"folders/AudioLast.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndhubrevealfakeblocks.wav",
+  "type":1,
+  "volume":1.0,
+}

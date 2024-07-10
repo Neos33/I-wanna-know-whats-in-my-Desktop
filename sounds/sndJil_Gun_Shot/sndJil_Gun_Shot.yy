@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndJil_Gun_Shot",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.858358,
+  "name":"sndJil_Gun_Shot",
+  "parent":{
+    "name":"Jill Valentine",
+    "path":"folders/Stage 3/Jill Valentine.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndjil_gun_shot.wav",
+  "type":1,
+  "volume":1.0,
+}

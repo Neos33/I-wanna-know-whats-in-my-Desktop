@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndQuick_Fart",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.204694,
+  "name":"sndQuick_Fart",
+  "parent":{
+    "name":"AudioLast",
+    "path":"folders/AudioLast.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndquick_fart.wav",
+  "type":1,
+  "volume":1.0,
+}

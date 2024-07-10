@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndMR_Evolve_Animation",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.054036,
+  "name":"sndMR_Evolve_Animation",
+  "parent":{
+    "name":"Cutscene Clock arrives",
+    "path":"folders/Objects/Last Boss/Assets/Cutscene Clock arrives.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndmr_evolve_animation.ogg",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndMinigame_Win",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.49034,
+  "name":"sndMinigame_Win",
+  "parent":{
+    "name":"Stage 2",
+    "path":"folders/Stage 2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndminigame_win.wav",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndGodzillaSpider",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.541383,
+  "name":"sndGodzillaSpider",
+  "parent":{
+    "name":"SpiderMan",
+    "path":"folders/Stage 3/SpiderMan.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndGodzillaSpider.ogg",
+  "type":1,
+  "volume":0.22,
+}

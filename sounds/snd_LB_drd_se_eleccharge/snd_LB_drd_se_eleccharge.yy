@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_LB_drd_se_eleccharge",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.457783,
+  "name":"snd_LB_drd_se_eleccharge",
+  "parent":{
+    "name":"Assets",
+    "path":"folders/Objects/Last Boss/Assets.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_lb_drd_se_eleccharge.wav",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndCircleExpandIntro",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.786395,
+  "name":"sndCircleExpandIntro",
+  "parent":{
+    "name":"AudioLast",
+    "path":"folders/AudioLast.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndcircleexpandintro.wav",
+  "type":1,
+  "volume":1.0,
+}

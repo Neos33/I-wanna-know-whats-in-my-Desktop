@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrNeosCustomFunctions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrNeosCustomFunctions",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

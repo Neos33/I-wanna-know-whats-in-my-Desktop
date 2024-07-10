@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndZaphkiel_Clock_Appear",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.38059,
+  "name":"sndZaphkiel_Clock_Appear",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds/SFX/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndZaphkiel_Clock_Appear.wav",
+  "type":1,
+  "volume":0.26,
+}

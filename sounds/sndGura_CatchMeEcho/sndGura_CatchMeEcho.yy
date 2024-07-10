@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndGura_CatchMeEcho",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.757732,
+  "name":"sndGura_CatchMeEcho",
+  "parent":{
+    "name":"Stage 4",
+    "path":"folders/Stage 4.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndgura_catchmeecho.wav",
+  "type":1,
+  "volume":1.0,
+}

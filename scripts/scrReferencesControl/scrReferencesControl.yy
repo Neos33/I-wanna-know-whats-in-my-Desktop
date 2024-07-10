@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrReferencesControl",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrReferencesControl",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

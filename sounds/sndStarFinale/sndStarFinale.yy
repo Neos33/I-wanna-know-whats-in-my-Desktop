@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndStarFinale",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.382566,
+  "name":"sndStarFinale",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Objects/Last Boss/Assets/Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndstarfinale.ogg",
+  "type":1,
+  "volume":0.08,
+}

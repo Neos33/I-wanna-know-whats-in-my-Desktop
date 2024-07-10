@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndTransformation_power_up",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.638594,
+  "name":"sndTransformation_power_up",
+  "parent":{
+    "name":"Cutscene Clock arrives",
+    "path":"folders/Objects/Last Boss/Assets/Cutscene Clock arrives.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndtransformation_power_up.ogg",
+  "type":1,
+  "volume":0.04,
+}

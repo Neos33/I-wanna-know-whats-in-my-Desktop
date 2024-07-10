@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndZaphkiel_Gun_Shot",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.657823,
+  "name":"sndZaphkiel_Gun_Shot",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds/SFX/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndZaphkiel_Gun_Shot.ogg",
+  "type":1,
+  "volume":0.39,
+}

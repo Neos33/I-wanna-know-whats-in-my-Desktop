@@ -1,0 +1,2 @@
+/// @description 
+other.visible = true;

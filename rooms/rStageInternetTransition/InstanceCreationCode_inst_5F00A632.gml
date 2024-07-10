@@ -1,0 +1,1 @@
+mode = CAMERA.FOLLOW_OBJECT;

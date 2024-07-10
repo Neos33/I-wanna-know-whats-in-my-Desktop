@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndCC_Necrozap",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.5,
+  "name":"sndCC_Necrozap",
+  "parent":{
+    "name":"AudioLast",
+    "path":"folders/AudioLast.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndcc_necrozap.wav",
+  "type":1,
+  "volume":1.0,
+}

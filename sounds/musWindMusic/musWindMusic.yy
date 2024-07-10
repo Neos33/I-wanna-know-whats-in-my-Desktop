@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"musWindMusic",
+  "audioGroupId":{
+    "name":"ag_BGM",
+    "path":"audiogroups/ag_BGM",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":53.90474,
+  "name":"musWindMusic",
+  "parent":{
+    "name":"Assets",
+    "path":"folders/Objects/Last Boss/Assets.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"muswindmusic.ogg",
+  "type":1,
+  "volume":1.0,
+}

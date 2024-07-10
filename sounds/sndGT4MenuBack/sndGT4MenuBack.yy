@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndGT4MenuBack",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.012812,
+  "name":"sndGT4MenuBack",
+  "parent":{
+    "name":"UI SFX",
+    "path":"folders/Objects/Menu/UI SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndGT4MenuBack.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"musCSI_Miami",
+  "audioGroupId":{
+    "name":"ag_BGM",
+    "path":"audiogroups/ag_BGM",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":46.964375,
+  "name":"musCSI_Miami",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"musCSI_Miami.ogg",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndGT4SelectConfirmed",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.639796,
+  "name":"sndGT4SelectConfirmed",
+  "parent":{
+    "name":"UI SFX",
+    "path":"folders/Objects/Menu/UI SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndGT4SelectConfirmed.wav",
+  "type":0,
+  "volume":1.0,
+}

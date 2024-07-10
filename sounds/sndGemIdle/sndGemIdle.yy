@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndGemIdle",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.012562,
+  "name":"sndGemIdle",
+  "parent":{
+    "name":"Assets",
+    "path":"folders/Objects/Items/Assets.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndgemidle.ogg",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndAlundra_Enter_Dream",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.270408,
+  "name":"sndAlundra_Enter_Dream",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds/SFX/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndAlundra_Enter_Dream.wav",
+  "type":1,
+  "volume":0.36,
+}

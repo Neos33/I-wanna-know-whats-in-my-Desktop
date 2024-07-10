@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndVolumeCheckAccept",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.201467,
+  "name":"sndVolumeCheckAccept",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Objects/Menu.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndvolumecheckaccept.wav",
+  "type":1,
+  "volume":0.25,
+}

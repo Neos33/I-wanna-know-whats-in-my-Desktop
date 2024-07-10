@@ -1,0 +1,1 @@
+sprite_index = sprSpikeBall_Normal;

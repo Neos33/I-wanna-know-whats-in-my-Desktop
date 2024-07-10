@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndClock_Recharge",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.239796,
+  "name":"sndClock_Recharge",
+  "parent":{
+    "name":"Cutscene Clock arrives",
+    "path":"folders/Objects/Last Boss/Assets/Cutscene Clock arrives.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndclock_recharge.ogg",
+  "type":1,
+  "volume":0.11,
+}

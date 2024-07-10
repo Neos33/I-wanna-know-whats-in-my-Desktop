@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndStarFinaleExplode",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.583673,
+  "name":"sndStarFinaleExplode",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Objects/Last Boss/Assets/Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndstarfinaleexplode.ogg",
+  "type":1,
+  "volume":0.09,
+}

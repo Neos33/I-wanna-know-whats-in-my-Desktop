@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndJil_Gun_Ammo_Hit",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.39375,
+  "name":"sndJil_Gun_Ammo_Hit",
+  "parent":{
+    "name":"Jill Valentine",
+    "path":"folders/Stage 3/Jill Valentine.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndjil_gun_ammo_hit.wav",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+windForce = -.5

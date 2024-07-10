@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndFrieza_destructodisc",
+  "audioGroupId":{
+    "name":"ag_SFX",
+    "path":"audiogroups/ag_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.623855,
+  "name":"sndFrieza_destructodisc",
+  "parent":{
+    "name":"Attacks",
+    "path":"folders/Objects/Last Boss/Assets/Attacks.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndfrieza_destructodisc.wav",
+  "type":1,
+  "volume":1.0,
+}
