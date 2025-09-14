@@ -1,16 +1,16 @@
 datas = [];
 
 for (var i = 0; i < global.total_saves; i++) {
-	var exists = file_exists(string_interp("Data{0}", i + 1));
+	var _exists = file_exists(string_interp("Data{0}", i + 1));
 	
-    if (exists) {
+    if (_exists) {
         global.save_num = i;
         load_game(false);
     }
 	
 	datas[i] = {
 		//difficulty: (exists) ? global.difficulties[global.difficulty] : "No Data",
-		difficulty: (exists) ? "Gaming" : "No Data",
+		difficulty: (_exists) ? "Gaming" : "No Data",
 		deaths: global.deaths,
 		time: global.time,
 		clear: global.clear,

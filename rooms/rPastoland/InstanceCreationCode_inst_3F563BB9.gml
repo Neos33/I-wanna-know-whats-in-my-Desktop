@@ -1,7 +1,9 @@
 jank = false;
 image_speed = 0;
 image_index = 4;
+
 sprite_index = sprBlock_Texture_Center;
+
 x+=sprite_xoffset;
 y+=sprite_yoffset;
 

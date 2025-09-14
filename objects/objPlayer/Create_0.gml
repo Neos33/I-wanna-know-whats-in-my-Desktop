@@ -23,12 +23,12 @@ bonkSound = true;
 //conveyor_speed = 0;
 
 // Sprites assets
-enum PLAYER_ACTIONS {
-	IDLE = sprPlayerIdle,
-	RUN = sprPlayerRun,
-	JUMP = sprPlayerJump,
-	FALL = sprPlayerFall,
-	SLIDE = sprPlayerSlide
+PLAYER_ACTIONS = {
+	IDLE : sprPlayerIdle,
+	RUN : sprPlayerRun,
+	JUMP : sprPlayerJump,
+	FALL : sprPlayerFall,
+	SLIDE : sprPlayerSlide
 }
 
 // Audio assets

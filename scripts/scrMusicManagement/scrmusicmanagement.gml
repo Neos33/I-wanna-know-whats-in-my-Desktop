@@ -36,19 +36,19 @@ function get_music() {
 			audio_set_loop(false);
 	        break;
 			
-        case rStage0114:
+        case rPastoland:
 		//case rTemplate24:
 		//case rStageInternetTransition:
 			music = musKarakuriSpirits;
 			audio_set_loop(true, 21.936, 183.472);
 		break;
 		
-		case rTemplate24:
+		case rNightCastle:
 			music = musStage2;
 			audio_set_loop(false);
 		break;
 		
-		case rStage04:
+		case rCaveFiesta:
 			music = musCaveStage;
 			audio_set_loop(true,31.055,144.388);
 		break;

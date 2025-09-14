@@ -1,5 +1,5 @@
 //Debug variables
-global.debug_enable = false; //Sets if the debug options should be enabled
+global.debug_enable = true; //Sets if the debug options should be enabled
 global.debug_overlay = true; //Enables debug overlay
 global.debug_coloring = true; //Enables debug player coloring
 
